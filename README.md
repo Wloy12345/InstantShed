@@ -1,4 +1,4 @@
-# Shunder
+# InstantShed
 
 A local-first construction project planner. Enter footprint dimensions, choose foundation and framing, see pier placement on the floorplan, and get a shopping list with **how many pieces to buy** based on store stock lengths you measured.
 
