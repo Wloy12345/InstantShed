@@ -1,0 +1,18 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+.vite
+
+# Local env
+*.local
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+*.log
+
+# TypeScript cache
+*.tsbuildinfo
